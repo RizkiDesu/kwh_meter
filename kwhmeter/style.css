@@ -1,0 +1,29 @@
+.bg-gradient {
+    background: linear-gradient(90deg, #663783 0%, #db1852 100%) !important;
+}
+
+body {
+    background: #f5f5f5 !important;
+}
+
+.bg-primary{
+    background-color: #663783 !important;
+}
+.bg-primary:hover{
+    background-color: #8c15d5 !important;
+}
+
+.bg-danger{
+    background-color: #db1852 !important;
+}
+.bg-danger:hover{
+    background-color: #ff004c !important;
+}
+
+.text-primary{
+    color: #663783 !important;
+}
+
+.text-danger{
+    color: #db1852 !important;
+}
